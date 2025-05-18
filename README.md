@@ -1,41 +1,36 @@
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Faysal SARKER 
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40px"/>
-  🔐
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35px"/> 🔐
 </h1>
 
-
-## 👨‍💻 About Me
-
-- 🌍 Based in Paris, I’m a Cybersecurity & Cloud Computing enthusiast with a strong foundation in DevOps and system automation.
-- 🎓 Currently pursuing a BAC+4 in Cybersecurity and Cloud Engineering at SupMéca / Simplon.
-- 💡 Hands-on experience with tools like Docker, Kubernetes, Terraform, Ansible, Azure, and CI/CD platforms such as GitLab, Jenkins, and ArgoCD.
-- 🧠 I enjoy building efficient, scalable, and secure infrastructure using Infrastructure as Code and container orchestration.
-- 📚 Continuously learning and exploring new technologies in cloud automation and security engineering.
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+<table>
+  <tr>
+    <td>
 
-### 💻 Languages
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+## 👨‍💻 About Me
 
-### ☁️ Cloud & IaC
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+- 💼 Cybersecurity & DevOps Student @ SupMéca / Simplon  
+- 🎓 BAC+4 in Cybersecurity and Cloud Engineering  
+- 🛠 Focused on infrastructure as code, system automation, and secure deployments  
+- 📚 Continuously learning and building projects around DevOps, cloud, and security tools  
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+</td>
+    <td>
+      <img src="https://media2.giphy.com/media/tJfMvvTbPMijF4Hbmq/giphy.gif" width="300px" alt="cool animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,5 +42,5 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarker-faysal-05066521/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarker-faysal-05066521/)  
 ✉️ faisaladnan700@gmail.com
