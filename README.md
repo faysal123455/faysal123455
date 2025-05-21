@@ -1,56 +1,68 @@
-<h1 align="center">Hello!! 👋 I'm Faysal SARKER 🎯 🚀 🔐</h1>
+<h1 align="center">Hello!! 👋 I'm Faysal SARKER 🚀🔐</h1>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarker-faysal-050665212)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarker-faysal-050665212)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faysal123455)
 
-- 💼 I'm currently learning **DevOps & Cloud Automation**
-- 🎓 I'm studying **Cybersecurity & Cloud Engineering** at SupMéca / Simplon
-- 🌱 Currently working on **FastAPI, Traefik, CI/CD & Infra-as-Code**
+- 🎓 Currently studying **BAC+4 in Cybersecurity & Cloud Computing** at SupMéca / Simplon  
+- 🔍 Looking for an **apprenticeship from September 2025** (1 week school / 3 weeks company)  
+- 🛠 Passionate about **automation, IaC, CI/CD, cybersecurity, and cloud platforms**
+- 🌱 Always learning and working on real-world projects!
 
 ---
 
-## 🧠 Languages I Have Used
+## 🧠 Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-C9B200?logo=yaml&logoColor=black)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 
 ---
 
-## 🧱 Frameworks I Use
+## 🧰 Frameworks & Tools
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
----
-
-## ☁️ Databases & Cloud
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azuredevops&logoColor=white)
-![OVH](https://img.shields.io/badge/-OVH-1238F4?logo=ovh&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-## 🔧 DevOps & Tools
-
+### 🔧 DevOps & IaC
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-17A2B8?logo=argo&logoColor=white)
 ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikproxy&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### ☁️ Cloud
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![OVH](https://img.shields.io/badge/-OVH-1238F4?logo=ovh&logoColor=white)
+
+---
+
+## 🗃️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+## 🖥️ Operating Systems
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+
+---
+
+## 💡 Soft Skills & Languages
+
+- 💬 Fluent in English and French
+- ✅ Organized, analytical, adaptable, and autonomous
+- ⚽ Football | 🌍 Travel | 📱 Gadgets
 
 ---
 
