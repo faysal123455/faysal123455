@@ -18,7 +18,8 @@
 
 </td>
 <td align="center">
-<img src="./faysal-dev.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/faysal123455/faysal123455/master/faysal-dev.gif" width="250"/>
+
 
 </td>
 </tr>
