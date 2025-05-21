@@ -18,8 +18,8 @@
 
 </td>
 <td align="center">
-<img src="![image](https://github.com/user-attachments/assets/f49ffd2d-12eb-404c-84b0-cf9a5c279b14)
-" width="250"/>
+<img src="./faysal-dev.gif" width="200"/>
+
 </td>
 </tr>
 </table>
