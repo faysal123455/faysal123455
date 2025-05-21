@@ -11,10 +11,9 @@
 <tr>
 <td>
 
-- 🎓 I'm currently studying **BAC+4 in Cybersecurity & Cloud Computing** at SupMéca / Simplon  
-- 📅 Looking for an **apprenticeship starting September 2025** (1 week school / 3 weeks company)  
-- 🔧 Passionate about **automation, IaC, CI/CD, cybersecurity, and cloud platforms**  
-- 🌱 Always learning and building things in real-world environments  
+- 🎓 Currently studying **BAC+4 in Cybersecurity & Cloud Computing** at SupMéca / Simplon  
+- 🛠️ Passionate about **automation, Infrastructure as Code (IaC), CI/CD, cybersecurity, and cloud technologies**  
+- 🚀 Always learning and building hands-on projects in real-world environments  
 
 </td>
 <td align="center">
