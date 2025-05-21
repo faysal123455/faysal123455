@@ -18,7 +18,7 @@
 
 </td>
 <td align="center">
-<img src="./faysal-dev.gif" width="200"/>
+<img src="./faysal-dev.gif" width="250"/>
 
 </td>
 </tr>
