@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! 👋 I'm Faysal SARKER 🚀🔐</h1>
+<h1 align="center">Hello!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="display:inline;"> I'm Faysal SARKER 🚀🔐</h1>
 
 ---
 
