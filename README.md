@@ -11,7 +11,7 @@
 <tr>
 <td>
 
-- 🎓 Currently studying **BAC+4 in Cybersecurity & Cloud Computing** at SupMéca / Simplon  
+- 🎓 Currently studying **BAC+3/4 in Cybersecurity & Cloud Computing** at Simplon formation 
 - 🛠️ Passionate about **automation, Infrastructure as Code (IaC), CI/CD, cybersecurity, and cloud technologies**  
 - 🚀 Always learning and building hands-on projects in real-world environments  
 
